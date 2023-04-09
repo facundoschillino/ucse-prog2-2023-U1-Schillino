@@ -1,4 +1,4 @@
-package org.example;
+package ModuloPoductos;
 
 public class FabricaElectronica extends FactoryProducto{
 

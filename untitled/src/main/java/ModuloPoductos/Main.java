@@ -1,9 +1,5 @@
-package org.example;
+package ModuloPoductos;
 
-import ModuloPagos.ControladorDePagos;
-import ModuloPagos.PagarMercadopago;
-import ModuloPagos.PagarPaypal;
-import ModuloPagos.ProcesadorDePagos;
 import ModuloTransporte.CalculadorDeEnvios;
 import ModuloTransporte.Transporte;
 import ModuloTransporte.TransporteAvion;

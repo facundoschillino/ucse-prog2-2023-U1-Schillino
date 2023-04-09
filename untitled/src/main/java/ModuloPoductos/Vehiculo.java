@@ -1,13 +1,13 @@
-package org.example;
+package ModuloPoductos;
 
-public class Electronica implements Producto{
-
-private double Costo;
-    public Electronica(){}
+public class Vehiculo implements Producto{
+    private double Costo;
+    public Vehiculo(){}
 
     public double getCosto() {
         return Costo;
     }
+
     public void setCosto(double costo) {
         Costo = costo;
     }

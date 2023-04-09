@@ -55,7 +55,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/ModuloPoductos/Main.java</url>
           <line>47</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>

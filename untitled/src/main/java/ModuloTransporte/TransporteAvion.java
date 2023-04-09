@@ -1,6 +1,6 @@
 package ModuloTransporte;
 
-import org.example.Producto;
+import ModuloPoductos.Producto;
 
 public class TransporteAvion implements Transporte{
     private Producto producto;
